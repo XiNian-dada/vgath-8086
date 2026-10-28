@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://vgath-8086.github.io/sitemap.xml
+Sitemap: https://xinian-dada.github.io/vgath-8086/sitemap.xml
